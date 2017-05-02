@@ -1,2 +1,4 @@
 # hello-world
-hello-world test repository
+hello-world
+
+I'm just playing around here.. nothing serious.
